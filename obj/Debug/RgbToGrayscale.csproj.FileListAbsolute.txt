@@ -1,0 +1,10 @@
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.csprojAssemblyReference.cache
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.Form1.resources
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.Properties.Resources.resources
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.csproj.GenerateResource.cache
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\bin\Debug\RgbToGrayscale.exe.config
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\bin\Debug\RgbToGrayscale.exe
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\bin\Debug\RgbToGrayscale.pdb
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.exe
+C:\Users\Furkan\Source\Repos\RgbToGrayscale\RgbToGrayscale\obj\Debug\RgbToGrayscale.pdb
